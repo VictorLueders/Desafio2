@@ -17,3 +17,6 @@ Aula normal.
 
 Explicação:
 Os três primeiros alunos chegaram no horário. Os dois últimos estavam atrasados. O limite é de três alunos, portanto a aula não será cancelada.
+
+
+O sistema foi desenvolvido em c# utilizando .NET 6.0. Para simular primeiro digite o mínimo de alunos necessários para uma aula, em seguida digite os tempos de atraso de cada aluno. para finalizar, digite 'stop' e o programa verificará se haverá aula ou não.
