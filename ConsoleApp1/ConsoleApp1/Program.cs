@@ -50,6 +50,13 @@ while (true)
         {
             break;
         }
+        else
+        {
+            Console.WriteLine("Insira um tempo válido");
+            Console.WriteLine("Pressione ENTER para prosseguir");
+            Console.ReadKey();
+            contador--;
+        }
     }
 }
 
