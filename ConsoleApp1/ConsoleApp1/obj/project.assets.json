@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor\\Documents\\GitHub\\Desafio2\\ConsoleApp1\\ConsoleApp1\\Desafio2.csproj",
-      "projectName": "Desafio2",
-      "projectPath": "C:\\Users\\Victor\\Documents\\GitHub\\Desafio2\\ConsoleApp1\\ConsoleApp1\\Desafio2.csproj",
+      "projectUniqueName": "C:\\Users\\Victor\\Documents\\GitHub\\Desafio2\\ConsoleApp1\\ConsoleApp1\\Desafios.csproj",
+      "projectName": "Desafios",
+      "projectPath": "C:\\Users\\Victor\\Documents\\GitHub\\Desafio2\\ConsoleApp1\\ConsoleApp1\\Desafios.csproj",
       "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Victor\\Documents\\GitHub\\Desafio2\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
