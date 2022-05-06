@@ -102,3 +102,52 @@ else
     Console.WriteLine("Aula normal");
 }
 */
+
+
+
+
+
+
+
+
+
+
+/*
+ * Lógica máxima desenvolvida no desafio 3
+ * 
+var numeroEstimado = 0;
+var vetor = new int[3];
+var menorResultado = 0;
+var possibilidades = "";
+
+try
+{
+    Console.WriteLine("Insira o número n desejado");
+    numeroEstimado= Convert.ToInt32(Console.ReadLine());
+
+    for (int i = 0; i < vetor.Length; i++)
+    {
+        Console.WriteLine($"Insira o {i+1}o número");
+        vetor[i] = Convert.ToInt32(Console.ReadLine());
+    }
+}
+catch (Exception)
+{
+    Console.WriteLine("Fvor insira um valor válido");
+    Console.WriteLine("Aperte ENTER para continuar");
+    Console.ReadKey();
+}
+
+menorResultado = 10 / vetor[0];
+
+foreach (var numero in vetor)
+{
+    if (numeroEstimado / numero < menorResultado)
+    {
+        menorResultado = numeroEstimado / numero;
+        possibilidades = $"{numeroEstimado}/{numero}";
+    }
+}
+
+Console.WriteLine(possibilidades);
+*/
